@@ -1,0 +1,184 @@
+PASS oauth:br9b5qznba9sye8jj6egulpnt75zzq
+NICK arvbot
+USER arvbot 0 * :
+JOIN #netoen
+CAP REQ :twitch.tv/membership
+CAP REQ :twitch.tv/commands
+CAP REQ :twitch.tv/tags
+PRIVMSG #netoen :Hello everyone!
+001 arvbot :Welcome, GLHF!
+002 arvbot :Your host is tmi.twitch.tv
+003 arvbot :This server is rather new
+004 arvbot :-
+375 arvbot :-
+372 arvbot :You are in a maze of twisty passages, all alike.
+376 arvbot :>
+JOIN #netoen
+353 arvbot = #netoen :arvbot
+366 arvbot #netoen :End of /NAMES list
+CAP * ACK :twitch.tv/membership
+CAP * ACK :twitch.tv/commands
+CAP * ACK :twitch.tv/tags
+@color=#FF7F50;display-name=Arvbot;emote-sets=0;subscriber=0;turbo=0;user-type=mod :tmi.twitch.tv USERSTATE #netoen
+QUIT :
+PASS oauth:br9b5qznba9sye8jj6egulpnt75zzq
+NICK arvbot
+USER arvbot 0 * :
+JOIN #netoen
+CAP REQ :twitch.tv/membership
+CAP REQ :twitch.tv/commands
+CAP REQ :twitch.tv/tags
+PRIVMSG #netoen :Hello everyone!
+QUIT :Leaving
+PASS oauth:br9b5qznba9sye8jj6egulpnt75zzq
+NICK arvbot
+USER arvbot 0 * :
+JOIN #netoen
+CAP REQ :twitch.tv/membership
+CAP REQ :twitch.tv/commands
+CAP REQ :twitch.tv/tags
+PRIVMSG #netoen :Hello everyone!
+001 arvbot :Welcome, GLHF!
+002 arvbot :Your host is tmi.twitch.tv
+003 arvbot :This server is rather new
+004 arvbot :-
+375 arvbot :-
+372 arvbot :You are in a maze of twisty passages, all alike.
+376 arvbot :>
+JOIN #netoen
+353 arvbot = #netoen :arvbot
+366 arvbot #netoen :End of /NAMES list
+CAP * ACK :twitch.tv/membership
+CAP * ACK :twitch.tv/commands
+CAP * ACK :twitch.tv/tags
+@color=#FF7F50;display-name=Arvbot;emote-sets=0;subscriber=0;turbo=0;user-type=mod :tmi.twitch.tv USERSTATE #netoen
+QUIT :Leaving
+PASS oauth:br9b5qznba9sye8jj6egulpnt75zzq
+NICK arvbot
+USER arvbot 0 * :
+JOIN #netoen
+CAP REQ :twitch.tv/membership
+CAP REQ :twitch.tv/commands
+CAP REQ :twitch.tv/tags
+PRIVMSG #netoen :Hello everyone!
+PART #netoen :Leaving
+QUIT :Leaving
+PASS oauth:br9b5qznba9sye8jj6egulpnt75zzq
+NICK arvbot
+USER arvbot 0 * :
+JOIN #netoen
+CAP REQ :twitch.tv/membership
+CAP REQ :twitch.tv/commands
+CAP REQ :twitch.tv/tags
+PRIVMSG #netoen :Hello everyone!
+001 arvbot :Welcome, GLHF!
+002 arvbot :Your host is tmi.twitch.tv
+003 arvbot :This server is rather new
+004 arvbot :-
+375 arvbot :-
+372 arvbot :You are in a maze of twisty passages, all alike.
+376 arvbot :>
+JOIN #netoen
+353 arvbot = #netoen :arvbot
+366 arvbot #netoen :End of /NAMES list
+CAP * ACK :twitch.tv/membership
+CAP * ACK :twitch.tv/commands
+CAP * ACK :twitch.tv/tags
+@color=#FF7F50;display-name=Arvbot;emote-sets=0;subscriber=0;turbo=0;user-type=mod :tmi.twitch.tv USERSTATE #netoen
+PASS oauth:br9b5qznba9sye8jj6egulpnt75zzq
+NICK arvbot
+USER arvbot 0 * :
+JOIN #netoen
+CAP REQ :twitch.tv/membership
+CAP REQ :twitch.tv/commands
+CAP REQ :twitch.tv/tags
+PRIVMSG #netoen :Hello everyone!
+001 arvbot :Welcome, GLHF!
+002 arvbot :Your host is tmi.twitch.tv
+003 arvbot :This server is rather new
+004 arvbot :-
+375 arvbot :-
+372 arvbot :You are in a maze of twisty passages, all alike.
+376 arvbot :>
+JOIN #netoen
+353 arvbot = #netoen :arvbot
+366 arvbot #netoen :End of /NAMES list
+CAP * ACK :twitch.tv/membership
+CAP * ACK :twitch.tv/commands
+CAP * ACK :twitch.tv/tags
+@color=#FF7F50;display-name=Arvbot;emote-sets=0;subscriber=0;turbo=0;user-type=mod :tmi.twitch.tv USERSTATE #netoen
+PART #netoen :Leaving
+PART #netoen
+QUIT :Leaving
+PASS oauth:br9b5qznba9sye8jj6egulpnt75zzq
+NICK arvbot
+USER arvbot 0 * :
+JOIN #netoen
+CAP REQ :twitch.tv/membership
+CAP REQ :twitch.tv/commands
+CAP REQ :twitch.tv/tags
+PRIVMSG #netoen :Hello everyone!
+001 arvbot :Welcome, GLHF!
+002 arvbot :Your host is tmi.twitch.tv
+003 arvbot :This server is rather new
+004 arvbot :-
+375 arvbot :-
+372 arvbot :You are in a maze of twisty passages, all alike.
+376 arvbot :>
+JOIN #netoen
+353 arvbot = #netoen :arvbot
+366 arvbot #netoen :End of /NAMES list
+CAP * ACK :twitch.tv/membership
+CAP * ACK :twitch.tv/commands
+CAP * ACK :twitch.tv/tags
+@color=#FF7F50;display-name=Arvbot;emote-sets=0;subscriber=0;turbo=0;user-type=mod :tmi.twitch.tv USERSTATE #netoen
+PART #netoen :Leaving
+QUIT :Leaving
+PASS oauth:br9b5qznba9sye8jj6egulpnt75zzq
+NICK arvbot
+USER arvbot 0 * :
+JOIN #netoen
+CAP REQ :twitch.tv/membership
+CAP REQ :twitch.tv/commands
+CAP REQ :twitch.tv/tags
+PRIVMSG #netoen :Hello everyone!
+001 arvbot :Welcome, GLHF!
+002 arvbot :Your host is tmi.twitch.tv
+003 arvbot :This server is rather new
+004 arvbot :-
+375 arvbot :-
+372 arvbot :You are in a maze of twisty passages, all alike.
+376 arvbot :>
+JOIN #netoen
+353 arvbot = #netoen :arvbot
+366 arvbot #netoen :End of /NAMES list
+CAP * ACK :twitch.tv/membership
+CAP * ACK :twitch.tv/commands
+CAP * ACK :twitch.tv/tags
+@color=#FF7F50;display-name=Arvbot;emote-sets=0;subscriber=0;turbo=0;user-type=mod :tmi.twitch.tv USERSTATE #netoen
+PART #netoen :Leaving
+QUIT :Leaving
+PASS oauth:br9b5qznba9sye8jj6egulpnt75zzq
+NICK arvbot
+USER arvbot 0 * :
+JOIN #netoen
+CAP REQ :twitch.tv/membership
+CAP REQ :twitch.tv/commands
+CAP REQ :twitch.tv/tags
+PRIVMSG #netoen :Hello everyone!
+001 arvbot :Welcome, GLHF!
+002 arvbot :Your host is tmi.twitch.tv
+003 arvbot :This server is rather new
+004 arvbot :-
+375 arvbot :-
+372 arvbot :You are in a maze of twisty passages, all alike.
+376 arvbot :>
+JOIN #netoen
+353 arvbot = #netoen :arvbot
+366 arvbot #netoen :End of /NAMES list
+CAP * ACK :twitch.tv/membership
+CAP * ACK :twitch.tv/commands
+CAP * ACK :twitch.tv/tags
+@color=#FF7F50;display-name=Arvbot;emote-sets=0;subscriber=0;turbo=0;user-type=mod :tmi.twitch.tv USERSTATE #netoen
+PART #netoen :Leaving
+PART #netoen

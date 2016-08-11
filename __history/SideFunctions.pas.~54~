@@ -1,0 +1,64 @@
+unit SideFunctions;
+
+interface
+
+uses System.SysUtils;
+
+function XorStr(Stri, Strk: String): String;
+function SaveFile1(const FileName1, StringToSave: shortstring): Integer;
+function LoadFile1(const FileName1: shortstring; out StringToLoad: shortstring): Integer;
+
+implementation
+
+function XorStr(Stri, Strk: String): String;
+var
+ Longkey: string;
+ I: Integer;
+ Next: char;
+begin
+ for I := 0 to (Length(Stri) div Length(Strk)) do
+ Longkey := Longkey + Strk;
+ for I := 1 to length(Stri) do
+ begin
+  Next := chr((ord(Stri[i]) xor ord(Longkey[i])));
+  Result := Result + Next;
+ end;
+end;
+
+function SaveFile1(const FileName1, StringToSave: shortstring): Integer;
+var f: file of shortstring;
+begin
+ Result := 0;
+ try
+  AssignFile(f, FileName1);
+  Rewrite(f);
+  BlockWrite(f, StringToSave, SizeOf(shortstring));
+  CloseFile(f);
+ finally
+ end;
+end;
+
+function LoadFile1(const FileName1: shortstring; out StringToLoad: shortstring): Integer;
+var f: TextFile; buffer: string;
+begin
+ Result := 0;
+ if not FileExists(FileName1, False) then
+ begin
+  Result := -1;
+  exit;
+ end;
+ StringToLoad := '';
+ try
+  AssignFile(f, FileName1);
+  Reset(f);
+  while not EOF(f) do
+  begin
+   Readln(f, buffer);
+   StringToLoad := StringToLoad + buffer;
+  end;
+ finally
+  CloseFile(f);
+ end;
+end;
+
+end.

@@ -1,0 +1,27 @@
+unit SideFunctions;
+
+interface
+
+uses System.SysUtils;
+
+function XorStr(Stri, Strk: String): String;
+
+implementation
+
+function XorStr(Stri, Strk: String): String;
+var
+ Longkey: string;
+ I: Integer;
+ Next: char;
+begin
+ for I := 0 to (Length(Stri) div Length(Strk)) do
+ Longkey := Longkey + Strk;
+ for I := 1 to length(Stri) do
+ begin
+  Next := chr((ord(Stri[i]) xor ord(Longkey[i])));
+  Result := Result + Next;
+ end;
+end;
+
+end.
+

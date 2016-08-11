@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.106,=D:\Doci\Embarcadero\Delphi\Arvbot\ArvBot.todo</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.928,C:\Users\netoen\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\Doci\Embarcadero\Delphi\Arvbot\MainForm.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.081,C:\Users\netoen\Documents\Embarcadero\Studio\Projects\Project1.dproj=D:\Doci\Embarcadero\Delphi\Arvbot\ArvBot.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.244,D:\Doci\Embarcadero\Delphi\Arvbot\SideFunctions.pas=D:\Doci\Embarcadero\Delphi\Arvbot\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.928,C:\Users\netoen\Documents\Embarcadero\Studio\Projects\Unit1.pas=D:\Doci\Embarcadero\Delphi\Arvbot\MainForm.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.078,=C:\Users\netoen\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.396,=D:\Doci\Embarcadero\Delphi\Arvbot\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
